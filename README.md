@@ -1,4 +1,4 @@
-# Trends and opportunities in fundraising for social entrepreneurship projects
+# Trends and opportunities in fundraising for social projects
 ## Ironhack midterm project by Sebastian Bobeth and Juliane Petersen
 - Type: BI project
 - Project status: Actice
