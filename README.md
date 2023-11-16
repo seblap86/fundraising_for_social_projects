@@ -16,6 +16,11 @@ To provide a consulting service for social entrepreneurs seeking to pitch their 
 
 The visualization aim was to create an interactive dashboard targeted at aspiring social entrepreneurs.
 
+#### Tech used
+- Python, Jupyter Notebook (Data wrangling, explorative data analysis)
+- SQL (Model building)
+- Tableau (Explorative data analysis, data visualization, interactive dashboard creation & publication)
+
 #### Overview of the project week
 | Day       | Activities                                                                 |
 | --------- | -------------------------------------------------------------------------- |
