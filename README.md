@@ -1,29 +1,29 @@
 # Trends and opportunities in fundraising for social projects
-## Ironhack midterm project by Sebastian Bobeth and Juliane Petersen
+## Midterm project by Sebastian Bobeth and Juliane Petersen
+- Ironhack Data Analytics Bootcamp, Berlin, 2023
 - Type: BI project
-- Project status: Actice
+- Project status: Finalized
 
 ## Project description
 #### Project aim
-To provide a consulting service for social entrepreneurs seeking to pitch their project on fundraising platforms. We will focus on presenting an overview of trends and success criteria using the following features:
+To provide a consulting service for social entrepreneurs seeking to pitch their project on fundraising platforms. We aimed to develop an overview of trends and success criteria by conducting explorative data analysis (EDA) on the following features:
 - Categories/topics
 - Project location
 - Funding targets (numerical and in ranges)
-- Funding timeline
 - Funding raised (absolute and relative to funding target)
 - Number of supporters
-- Optional: Project description length, keywords   
+- Project description length   
 
-The visualization aim is to create an interactive dashboard targeted at aspiring social entrepreneurs. A secondary project aim is to build a linear regression model to determine the most relevant success predictors (target variable: % of funding target reached), if time allows for that.
+The visualization aim was to create an interactive dashboard targeted at aspiring social entrepreneurs.
 
-#### Project plan
-| Day       | Activities                                                          |
-| --------- | ------------------------------------------------------------------- |
-| Monday    | Project pitch <br/>Data wrangling <br/>Exploratory data analysis    |
-| Tuesday   | Exploratory data analysis <br/>Optional: Linear regression modeling |
-| Wednesday | Data visualization <br/>Visualization selection for presentation    |
-| Thursday  | Preparation of presentation <br/>Finalizing deliverables            |
-| Friday    | Presentation <br/>Submission of deliverables                        |
+#### Overview of the project week
+| Day       | Activities                                                                 |
+| --------- | -------------------------------------------------------------------------- |
+| Monday    | Project pitch <br/>Data wrangling <br/>Exploratory data analysis           |
+| Tuesday   | Exploratory data analysis <br/>Selection of meaningful results             |
+| Wednesday | Data visualization <br/>Final selections for dashboard & presentation      |
+| Thursday  | Preparation of dashboard & presentation <br/>Finalizing deliverables       |
+| Friday    | Presentation <br/>Publication of dashboard <br/>Submission of deliverables |
 
 ## About the dataset
 - Title: “Social entrepreneurship database with venture identification, linguistic variables and fundraising success.”
