@@ -1,6 +1,6 @@
 # Trends and opportunities in fundraising for social projects
 ## Midterm project by Sebastian Bobeth and Juliane Petersen
-- Ironhack Data Analytics Bootcamp, Berlin, 2023
+- Ironhack Data Analytics Bootcamp, Berlin, November 2023
 - Type: BI project
 - Project status: Finalized
 
