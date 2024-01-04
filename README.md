@@ -6,15 +6,15 @@
 
 ## Project description
 #### Project aim
-To provide a consulting service for social entrepreneurs seeking to pitch their project on fundraising platforms. We aimed to develop an overview of trends and success criteria by conducting explorative data analysis (EDA) on the following features:
+To provide a consulting service for social entrepreneurs seeking to pitch their project on fundraising platforms. We developed an overview of trends and success criteria by conducting explorative data analysis (EDA) on the following features:
 - Categories/topics
 - Project location
 - Funding targets (numerical and in ranges)
 - Funding raised (absolute and relative to funding target)
 - Number of supporters
-- Project description length   
+- Project description length.   
 
-The visualization aim was to create an interactive dashboard targeted at aspiring social entrepreneurs.
+As it was our visualization aim, we created an interactive dashboard targeted at aspiring social entrepreneurs that integrated this information.
 
 #### Tech used
 - Python, Jupyter Notebook (Data wrangling, explorative data analysis)
