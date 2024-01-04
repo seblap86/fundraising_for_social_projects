@@ -30,6 +30,11 @@ The visualization aim was to create an interactive dashboard targeted at aspirin
 | Thursday  | Preparation of dashboard & presentation <br/>Finalizing deliverables       |
 | Friday    | Presentation <br/>Publication of dashboard <br/>Submission of deliverables |
 
+## Dashboard
+You can find our developed dashboard [here on Tableau Public](https://public.tableau.com/app/profile/sebastian.bobeth/viz/fundraising_social_projects_dashboard/DASHBOARD). Currently, it is optimized for desktop users.
+Here is a preview:
+![Dashboard preview](dashboard_preview.png)
+
 ## About the dataset
 - Title: “Social entrepreneurship database with venture identification, linguistic variables and fundraising success.”
 - Author: Donal Crilly (Professor of Strategy and Entrepreneurship, London Business School)
