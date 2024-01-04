@@ -31,8 +31,7 @@ The visualization aim was to create an interactive dashboard targeted at aspirin
 | Friday    | Presentation <br/>Publication of dashboard <br/>Submission of deliverables |
 
 ## Dashboard
-You can find our developed dashboard [here on Tableau Public](https://public.tableau.com/app/profile/sebastian.bobeth/viz/fundraising_social_projects_dashboard/DASHBOARD). Currently, it is optimized for desktop users.  
-Here is a preview:
+You can find our developed dashboard [here on Tableau Public](https://public.tableau.com/app/profile/sebastian.bobeth/viz/fundraising_social_projects_dashboard/DASHBOARD). Currently, it is optimized for desktop users. You can see a preview below.  
 ![Dashboard preview](dashboard_preview.png)
 
 ## About the dataset
