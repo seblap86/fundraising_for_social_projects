@@ -35,6 +35,11 @@ You can find our developed dashboard [here on Tableau Public](https://public.tab
 <br>
 ![Dashboard preview](dashboard_preview.png)
 
+## Relational database
+For our analyses and the dashboard building, it was necessary to develop a relational database (as we had a many-to-many relationship between the projects and topics that they related to). Below you can see our resulting database schema.  
+<br>
+![Database schema](https://github.com/seblap86/fundraising_for_social_projects/blob/main/sql%20files/EER_diagram.png?raw=true)
+
 ## About the dataset
 - Title: “Social entrepreneurship database with venture identification, linguistic variables and fundraising success.”
 - Author: Donal Crilly (Professor of Strategy and Entrepreneurship, London Business School)
